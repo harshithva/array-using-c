@@ -1,1 +1,3 @@
-# array-using-c
+# Array
+
+Array using C Programming
